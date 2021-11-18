@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RedCode26/RedCode26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a software development engineer who is passionate about technology, professional development, building community and cats, who doesn't love cats? Some technologies I enjoy working include JavaScript, ReactJS, CSS and UX & UI. I have worked on projects with Agile methodologies with development environment based on Angular.
 
 ##  Some technologies I use:
