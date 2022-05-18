@@ -17,3 +17,21 @@ I'm a software development engineer who is passionate about technology, professi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+In my free time, I like to practice and develop personal projects related to computing and programming, some of these are
+
+### <a href="https://github.com/JudahAvadom/NukeJS">Nuke JS</a>
+
+<center>
+  <img srd="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Nuclear_plant.svg/480px-Nuclear_plant.svg.png" />
+</center>
+
+NukeJs is an open source library that provides component oriented programming, JSX syntax and new features that we are working on
+
+#### Sintaxis basica
+
+* Hola mundo
+
+```js
+Nuke.root(<div>Hola en Nuke JS</div>)
+```
